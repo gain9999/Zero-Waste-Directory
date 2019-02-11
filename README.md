@@ -1,4 +1,4 @@
-# Zero Waste Directory
+# Thailand Zero Waste Directory
 A curated list of Zero Waste campaigns and related resource in Thailand
 
 ### Facebook page/community
