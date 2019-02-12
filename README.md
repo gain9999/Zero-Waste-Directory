@@ -4,9 +4,11 @@ A curated list of Zero Waste campaigns and related resource in Thailand
 ### Facebook page/community
 -  __[greenery.](https://www.facebook.com/pg/greeneryorg)__ - lifestyle, content: "eat good. live green" [(website)](https://www.greenery.org)
 - [Group] __[Greenery Challenge](https://www.facebook.com/groups/GreeneryChallenge)__ - Challenge/sharing
+- __[3WheelsUncle](https://www.facebook.com/3WheelsUncle)__ - ลุงซาเล้งกับขยะที่หายไป
 
 ### Restaurant/Refill station
 -  __[Refill Station](https://www.facebook.com/refillstationbkk)__ - ปั้มน้ำยา  [(website)](https://www.refillstationbkk.com)
+- __[ZeroMoment Refillery](https://www.facebook.com/zeromomentrefillery)__ - “เอามาภาชนะมาเอง ใช้แค่ไหนเติมแค่นั้น ลดการสร้างขยะ”
 
 ### News agency
 - __[GREENNEWS](https://greennews.agency)__ - สำนักข่าวสิ่งแวดล้อม
@@ -16,6 +18,7 @@ A curated list of Zero Waste campaigns and related resource in Thailand
 - __[Mahidol Sustainable University](https://www.mahidol.ac.th/sustainable/)__ - Mahidol university
 - Thammasat University
 - __[SWU Green University](https://green.swu.ac.th)__ - Srinakharinwirot University
+- Silpakorn University
 
 ### School
 - __[Roong Aroon School](https://www.roong-aroon.ac.th/?p=6341)__- The Comprehensive Resource Management System ร.ร.รุ่งอรุณ, แยกขยะครบวงจร
